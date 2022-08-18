@@ -11,7 +11,8 @@ se encuentran 4 archivos
 - el pdf 'MR' es el modelo relacional que decidí agregarlo.
 - el script de creación de las tablas 'create_tables.sql'.
 - el script que atiende cada una de las preguntas de esta primera parte 'respuestas_negocio.sql'.
-###segunda parte API
+
+### segunda parte API
 se encuentran 2 archivos
 
 - el script de python que realiza la consulta a servicio de Meli y genera el archivo plano de salida
